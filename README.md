@@ -1,2 +1,2 @@
-# Thinking-In-Object---Oriented
-Thinking In Object - Oriented Way In Python
+# Thinking In Object-Oriented
+Thinking In Object-Oriented Way In Python
